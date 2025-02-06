@@ -74,4 +74,5 @@ Fork 仓库并提交 Pull Request
 MIT License
 
 让音乐自由流动！ 🎶
-开发者交流邮箱：cyf31415@yeah.net
+开发者交流支持：cyf31415@yeah.net
+P.S. 作者为初三学生，时间有限，烦请诸位多多支持🙏🙏
