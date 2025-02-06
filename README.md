@@ -34,9 +34,9 @@
 - npm ≥ 9.x
 
 ### 安装步骤
-```bash
+
 # 克隆仓库
-git clone https://github.com/你的用户名/MelodyNest.git
+git clone https://github.com/Ghost-Silver/MelodyNest.git
 
 # 安装依赖
 cd MelodyNest
@@ -49,6 +49,7 @@ npm run start
 npm run build
 
 # 输出至 /dist 目录
+```bash
 
 项目结构
 MelodyNest/
@@ -60,19 +61,32 @@ MelodyNest/
 ├── docs/               # 文档与截图
 └── package.json
 
-如何贡献
+```
+
+## 如何贡献
+
 欢迎通过以下方式参与：
 
-提交 Issue 报告问题或建议
-Fork 仓库并提交 Pull Request
-完善文档或翻译
-代码规范
-分支命名: feat/xxx / fix/xxx
-提交信息遵循 Conventional Commits
-使用 ESLint + Prettier 保持代码风格统一
-开源协议
+- 提交 Issue 报告问题或建议
+
+- Fork 仓库并提交 Pull Request
+
+- 完善文档或翻译
+
+## 代码规范
+
+- 分支命名: feat/xxx / fix/xxx
+
+- 提交信息遵循 Conventional Commits
+
+- 使用 ESLint + Prettier 保持代码风格统一
+
+## 开源协议
 MIT License
 
+## 结语 & 其他
 让音乐自由流动！ 🎶
+
 开发者交流支持：cyf31415@yeah.net
+
 P.S. 作者为初三学生，时间有限，烦请诸位多多支持🙏🙏
